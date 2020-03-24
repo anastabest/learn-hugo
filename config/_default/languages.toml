@@ -1,0 +1,11 @@
+
+
+[uk]
+  title = "Hugo ZDoc Theme"
+  languageName = "Ukraine"
+  weight = 1
+
+[en]
+  title = "Hugo ZDoc Theme"
+  languageName = "English"
+  weight = 2
